@@ -1,7 +1,7 @@
 import { MapPin, Instagram, Phone } from "lucide-react";
 
 const links = [
-  { icon: MapPin, href: "#", label: "Location" },
+  { icon: MapPin, href: "https://baskinrobbinsindia.com/", label: "Location" },
   { icon: Instagram, href: "#", label: "Instagram" },
   { icon: Phone, href: "#", label: "Call Us" },
 ];
