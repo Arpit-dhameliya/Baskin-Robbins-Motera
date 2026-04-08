@@ -1,6 +1,7 @@
 import HeroBackground from "@/components/HeroBackground";
 import SocialLinks from "@/components/SocialLinks";
 import { Trophy } from "lucide-react";
+import adLogo from "@/assets/ad-logo.png";
 
 const Index = () => {
   return (
@@ -13,17 +14,7 @@ const Index = () => {
         <div className="flex-1 flex flex-col items-center justify-center px-6 text-center">
           {/* Logo monogram */}
           <div className="animate-fade-up mb-4">
-            <span
-              className="text-5xl font-bold tracking-tight"
-              style={{
-                fontFamily: "var(--font-display)",
-                background: "linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)))",
-                WebkitBackgroundClip: "text",
-                WebkitTextFillColor: "transparent",
-              }}
-            >
-              AD
-            </span>
+            <img src={adLogo} alt="AD Logo" className="w-20 h-20 object-contain" />
           </div>
 
           {/* Brand name */}
@@ -36,10 +27,10 @@ const Index = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-wrap gap-4 justify-center animate-fade-up-delay-2">
-            <a href="https://g.co/kgs/bkULVz3" className="btn-primary-glow">
+            <a href="#" className="btn-primary-glow">
               Rate Us
             </a>
-            <a href="https://wa.me/message/4IO56AZIW656D1" className="btn-hero">
+            <a href="#" className="btn-hero">
               Contact Us
             </a>
           </div>
