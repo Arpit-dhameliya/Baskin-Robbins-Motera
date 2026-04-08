@@ -36,10 +36,10 @@ const Index = () => {
 
           {/* CTA Buttons */}
           <div className="flex flex-wrap gap-4 justify-center animate-fade-up-delay-2">
-            <a href="#" className="btn-primary-glow">
+            <a href="https://g.co/kgs/bkULVz3" className="btn-primary-glow">
               Rate Us
             </a>
-            <a href="#" className="btn-hero">
+            <a href="https://wa.me/message/4IO56AZIW656D1" className="btn-hero">
               Contact Us
             </a>
           </div>
