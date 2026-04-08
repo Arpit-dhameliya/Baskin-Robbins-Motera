@@ -2,8 +2,9 @@ import { useState, useEffect } from "react";
 import heroBg1 from "@/assets/hero-bg.jpg";
 import heroBg2 from "@/assets/hero-bg-2.jpg";
 import heroBg3 from "@/assets/hero-bg-3.jpg";
+import heroBg4 from "@/assets/BR 01.jpg";
 
-const images = [heroBg1, heroBg2, heroBg3];
+const images = [heroBg1, heroBg2, heroBg3, heroBg4];
 
 const HeroBackground = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
