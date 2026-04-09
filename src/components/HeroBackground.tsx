@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
-import heroBg1 from "@/assets/BR 01.jpg";
-import heroBg2 from "@/assets/BR-02.webp";
-import heroBg3 from "@/assets/BR-03.webp";
-import heroBg4 from "@/assets/BR-04.png";
-import heroBg5 from "@/assets/BR-05.webp";
-import heroBg6 from "@/assets/BR-06.jpg";
+import heroBg1 from "@/assets/br-01.jpeg";
+import heroBg2 from "@/assets/br-02.jpeg";
+import heroBg3 from "@/assets/br-03.jpeg";
+import heroBg4 from "@/assets/br-04.jpeg";
+import heroBg5 from "@/assets/br-05.jpeg";
+import heroBg6 from "@/assets/br-06.jpeg";
 
 const images = [heroBg1, heroBg2, heroBg3, heroBg4, heroBg5, heroBg6];
 
