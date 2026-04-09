@@ -1,7 +1,7 @@
 import HeroBackground from "@/components/HeroBackground";
 import SocialLinks from "@/components/SocialLinks";
 import { Trophy } from "lucide-react";
-import adLogo from "@/assets/company-logo.png";
+import adLogo from "@/assets/company-logo.jpeg";
 
 const Index = () => {
   return (
