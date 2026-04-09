@@ -20,7 +20,7 @@ const Index = () => {
           {/* Brand name */}
           <h1
             className="text-4xl sm:text-5xl md:text-7xl font-bold tracking-tight mb-8 animate-fade-up-delay-1"
-            style={{ fontFamily: "var(--font-display)" }}
+            style={{ fontFamily: "var(--font-display)", color: "#EBE2D5" }}
           >
             Anand Dessert
           </h1>
