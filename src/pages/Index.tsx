@@ -53,7 +53,7 @@ const Index = () => {
           <SocialLinks />
 
           {/* Bulk orders */}
-          <p className="text-xs opacity-60 tracking-wide">
+          <p className="text-sm opacity-60 tracking-wide">
             * We accept bulk orders
           </p>
         </div>
