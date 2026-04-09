@@ -39,7 +39,7 @@ const Index = () => {
         {/* Bottom bar */}
         <div className="relative px-6 pb-6 flex flex-col sm:flex-row items-center justify-between gap-4 animate-fade-up-delay-3">
           {/* Did you know */}
-          <div className="text-left">
+          { /* <div className="text-left">
             <p className="text-sm font-medium opacity-80 mb-1">Did you know?</p>
             <p className="text-sm flex items-center gap-1.5">
               <Trophy className="w-4 h-4 text-accent" />
@@ -47,7 +47,7 @@ const Index = () => {
                 We are currently the best Baskin Robbins in Gujarat
               </span>
             </p>
-          </div>
+          </div> */ }
 
           {/* Social links */}
           <SocialLinks />
