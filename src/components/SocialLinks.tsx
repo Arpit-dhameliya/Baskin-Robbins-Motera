@@ -4,7 +4,7 @@ import zomatoLogo from "@/assets/zomato-logo.jpg";
 
 const iconLinks = [
   { icon: MapPin, href: "https://maps.app.goo.gl/XJA61C2btZYZqCpm8", label: "Location" },
-  { icon: Instagram, href: "https://www.instagram.com/baskinrobbins_motera", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/anand_dessert_motera?igsh=MTFnMG03YTh1cjR2Mw==", label: "Instagram" },
 ];
 
 const SocialLinks = () => (
